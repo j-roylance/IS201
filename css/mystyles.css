@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Times New Roman' !important;
+}
+
+.diff-bg {
+    background-color:darkgreen !important;
+}
+±
+.diff-text-primary {
+    color:darkgreen !important;
+}
+
+.midtext {
+    text-align: center !important; 
+}
+
+.fatHeader {
+    font-size: xx-large !important;
+}
+
+.skinnyHeader {
+    font-size: large !important;
+}
+
+.tableauBody {
+    color:beige;
+    background-image: url("../assets/img/spiral.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgee {
+    background-color:beige; 
+    border: 5px solid #555;
+    
+}
